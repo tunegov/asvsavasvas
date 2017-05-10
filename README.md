@@ -7,8 +7,8 @@ React Native Starter Kit helps you get started with React Native. It contains a 
 ## Docs
 
 1. [Getting Started](#getting-started)
+1. [Features](#features)
 1. [Examples](#examples)
-1. [Feature](#feature)
 
 ---
 
