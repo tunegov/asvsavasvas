@@ -2,8 +2,6 @@
 
 React Native Starter Kit helps you get started with React Native. It contains a bunch of helpful components, building blocks and basic structure to allow you to jump straight into building an app.
 
-![alt text](/docs/rnsk-screens.jpg "React Native Starter App")
-
 ---
 
 ## Docs
